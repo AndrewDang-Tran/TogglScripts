@@ -2,7 +2,7 @@
 
 import requests as req
 import pprint
-from togglconstants import BASE_URL, WORKSPACE_ID, API_TOKEN
+from togglConstants import BASE_URL, WORKSPACE_ID, API_TOKEN, API_TOKEN_KEY
 
 pp = pprint.PrettyPrinter(indent=4)
 

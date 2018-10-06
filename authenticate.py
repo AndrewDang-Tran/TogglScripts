@@ -2,7 +2,7 @@
 
 import requests as req
 import pprint
-from togglconstants import BASE_URL
+from togglConstants import BASE_URL
 
 pp = pprint.PrettyPrinter(indent=4)
 
