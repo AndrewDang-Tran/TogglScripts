@@ -7,7 +7,11 @@ API_TOKEN_KEY = 'api_token'
 PROJECTS = {
     'japanese': 130732205,
     'social': 138105156,
-    'work': 138105156,
-    'reading': 138105262,
-    'exercise': 138092256
+    'work': 138105262,
+    'reading': 130747251,
+    'exercise': 138092256,
+    'filler': 148635353,
+    'relaxing': 148635351,
+    'sleeping': 148635338,
+    'coding': 148635492
 }
